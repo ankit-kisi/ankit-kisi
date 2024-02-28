@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A undergrad computer engineering student.</h3>
+<h3 align="center">An undergrad computer engineering student.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
